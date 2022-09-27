@@ -1,4 +1,5 @@
    [ Rust官方网站 ]( https://www.rust-lang.org/zh-CN )    <br/>
+   [ 《Rust 程序设计语言》非官方翻译 ]( https://kaisery.github.io/trpl-zh-cn/title-page.html )    <br/>
    [ rust-course ]( https://github.com/sunface/rust-course )    <br/>
    [ rust-by-practice ]( https://github.com/sunface/rust-by-practice )   <br/>
    [ Rust教程：菜鸟 ]( https://github.com/sunface/rust-by-practice )    <br/>

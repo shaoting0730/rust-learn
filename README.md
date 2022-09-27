@@ -1,5 +1,3 @@
-# vue学习记录 
-
    [ Rust官方网站 ]( https://www.rust-lang.org/zh-CN )    <br/>
    [ rust-course ]( https://github.com/sunface/rust-course )    <br/>
    [ rust-by-practice ]( https://github.com/sunface/rust-by-practice )    <br/>   

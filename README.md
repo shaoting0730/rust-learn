@@ -1,13 +1,7 @@
-# vue学习记录
-   
-   [ vue基础学习](  https://github.com/pheromone/vue )  <br/>
-   [ vue2.0-learn ](   https://github.com/pheromone/vue-learn/tree/main/vue2.0-learn )  <br/>
-   [ vue-element-ui ](   https://github.com/pheromone/vue-learn/tree/main/vue-elementui-demo )   <br/>
-   [ vue-webpack-todos-demo ](     https://github.com/pheromone/vue-learn/tree/main/vue-webpack-demo )   <br/>
-   [ vue中v-model和v-bind绑定数据的异同 ](     https://www.tangshuang.net/3507.html )   <br/>
-   [ axios ](   https://mp.weixin.qq.com/s/suQjdYph-0Y_SRJyDtfqYw )   <br/>
-   [ Vue学习实战项目1 ](   https://github.com/pheromone/vue_demo )  <br/>
-   [ Vue学习实战项目2 ](     https://github.com/pheromone/order_pos) <br/>
-   [ Vue diff算法 ](  https://github.com/pheromone/vue-learn/tree/main/diff%E7%AE%97%E6%B3%95  ) <br/>
-
-   
+   [ Rust官方网站 ]( https://www.rust-lang.org/zh-CN )    <br/>
+   [《Rust 程序设计语言》非官方翻译 ]( https://kaisery.github.io/trpl-zh-cn/title-page.html )    <br/>
+   [《通过例子学 Rust 中文版》非官方翻译  ]( https://rustwiki.org/zh-CN/rust-by-example/ )    <br/>
+   [ rust-course ]( https://github.com/sunface/rust-course )    <br/>
+   [ rust-by-practice ]( https://github.com/sunface/rust-by-practice )   <br/>
+   [ Rust教程：菜鸟 ]( https://github.com/sunface/rust-by-practice )    <br/>
+   [ Rust编程语言入门教程：B站]( https://www.bilibili.com/video/BV1hp4y1k7SV?p=3&vd_source=bc5bee468c2cbda6193e66c4288c8c7b )  <br/>

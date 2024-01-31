@@ -1,5 +1,9 @@
-查看rust版本 rustc -V  <br/>
+查看rust版本 rustc -V 或者 rustc --version  <br/>
+如： rustc 1.75.0 (82e1608df 2023-12-21) <br/>
+     会显示版本号（1.75.0）、commit hash（82e1608df）、commit日期（2023-12-21） <br/>
 更新rust版本 rustup update   <br/>
+查看本地文档： <br/>
+rustup doc  <br/>
 cargo: 工具   <br/>
 cargo new xxxx  创建项目   <br/>
 cargo build 编译   <br/>

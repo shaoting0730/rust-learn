@@ -2,7 +2,7 @@
    [ Rust官方网站 ]( https://www.rust-lang.org/zh-CN )    <br/>
    [ Rust入门秘籍(更新中) ⭐️⭐️⭐️⭐️⭐ ]( https://rust-book.junmajinlong.com/about.html )    <br/>
    [ Rust编程语言入门教程：B站视频 ⭐️⭐️⭐️⭐️⭐️ ]( https://www.bilibili.com/video/BV1hp4y1k7SV/?buvid=9566fcf3191560d93e0235596450ee40&from_spmid=main.later-watch.0.0&is_story_h5=false&mid=5joWHgRTwdYBlRFeg6aHtg%3D%3D&p=1&plat_id=312&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=A8762E2D-BDAC-45B9-9C81-9F6194D307F3&share_source=WEIXIN&share_tag=s_i&spmid=playlist.playlist-video-detail.0.0&timestamp=1706616758&unique_k=lMTuIRj&up_id=361469957&vd_source=bc5bee468c2cbda6193e66c4288c8c7b )    <br/>
-   [ Rust语言圣经 ⭐️⭐️⭐️⭐️ ]( https://github.com/sunface/rust-course )    <br/>
+   [ rust-course ⭐️⭐️⭐️⭐️ ]( https://github.com/sunface/rust-course )    <br/>
    [ Rust语言圣经 ⭐️⭐️⭐️⭐️ ]( https://course.rs/too-many-lists/intro.html )    <br/>
    [ 锈书 ]( https://github.com/rustlang-cn/rusty-book )    <br/>
    [ Rust语言周刊 ]( https://github.com/rustlang-cn/rust-weekly )    <br/>

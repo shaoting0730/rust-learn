@@ -16,6 +16,8 @@
    [ Rust教程：菜鸟 ]( https://github.com/sunface/rust-by-practice )    <br/>
    [ Rust编程语言入门教程：B站]( https://www.bilibili.com/video/BV1hp4y1k7SV?p=3&vd_source=bc5bee468c2cbda6193e66c4288c8c7b )  <br/>
    [ rust-boom ]( https://github.com/rust-boom/rust-boom )    <br/>
+   [ Rust Cargo 备忘清单 ]( https://mp.weixin.qq.com/s/u6_OU2QrOD2BccIy5-3-sQ )    <br/>
+   
    ## <---------------跨平台UI开发框架------------><br/>
    [ 跨平台 UI 开发框架-Dioxus 网页前端、桌面应用、静态网站、移动端应用、TUI程序、等多类平台应用 ]( https://github.com/DioxusLabs/dioxus/blob/master/notes/README/ZH_CN.md )    <br/>
    [ Rust 程序设计语言]( https://kaisery.github.io/trpl-zh-cn/title-page.html)    <br/>

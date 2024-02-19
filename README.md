@@ -51,6 +51,7 @@
    <br/>
 
    ## <---------------全栈------------><br/>
+   [rust-Web­Assembly](https://www.rust-lang.org/zh-CN/what/wasm)   <br/>  <br/>
    [wasm-pack: 将 Rust 打包成 wasm 的命令行工具](https://rustwasm.github.io/wasm-pack/installer/)  <br/>
    [cargo-generate: 样板代码生成](https://github.com/cargo-generate/cargo-generate)  <br/>
    [create-wasm-app: npm相应包](https://github.com/rustwasm/create-wasm-app)  <br/>

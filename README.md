@@ -51,6 +51,11 @@
    <br/>
 
    ## <---------------全栈------------><br/>
+   [wasm-pack: 将 Rust 打包成 wasm 的命令行工具](https://rustwasm.github.io/wasm-pack/installer/)
+   [cargo-generate: 样板代码生成](https://github.com/cargo-generate/cargo-generate)
+   [create-wasm-app: npm相应包](https://github.com/rustwasm/create-wasm-app)
+   [rust-wasm: rust-wasm的模板](https://github.com/rustwasm/wasm-pack-template)
+   
    [ Rust Web 全栈开发教程 ]( https://www.bilibili.com/video/BV1RP4y1G7KF/?spm_id_from=333.999.0.0&vd_source=bc5bee468c2cbda6193e66c4288c8c7b )     <br/>
    [ awesome-leptos ]( https://github.com/leptos-rs/awesome-leptos )     <br/>
 

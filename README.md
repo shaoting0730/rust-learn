@@ -4,7 +4,6 @@
    [ Rust编程语言入门教程：B站视频 ⭐️⭐️⭐️⭐️⭐️ ]( https://www.bilibili.com/video/BV1hp4y1k7SV/?buvid=9566fcf3191560d93e0235596450ee40&from_spmid=main.later-watch.0.0&is_story_h5=false&mid=5joWHgRTwdYBlRFeg6aHtg%3D%3D&p=1&plat_id=312&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=A8762E2D-BDAC-45B9-9C81-9F6194D307F3&share_source=WEIXIN&share_tag=s_i&spmid=playlist.playlist-video-detail.0.0&timestamp=1706616758&unique_k=lMTuIRj&up_id=361469957&vd_source=bc5bee468c2cbda6193e66c4288c8c7b )    <br/>
    [ rust-course ⭐️⭐️⭐️⭐️ ]( https://github.com/sunface/rust-course )    <br/>
    [ Rust语言圣经 ⭐️⭐️⭐️⭐️ ]( https://course.rs/too-many-lists/intro.html )    <br/>
-   [ B站up主：原子之音 ]( https://space.bilibili.com/437860379 )    <br/>
    [ B站up主：软件工艺师 ]( https://space.bilibili.com/361469957 )    <br/>
    [ 锈书 ]( https://github.com/rustlang-cn/rusty-book )    <br/>
    [ Rust语言周刊 ]( https://github.com/rustlang-cn/rust-weekly )    <br/>
@@ -52,6 +51,14 @@
    <br/>
 
    ## <---------------全栈------------><br/>
+   [rust-Web­Assembly](https://www.rust-lang.org/zh-CN/what/wasm)   <br/> 
+   [rust-Web­Assembly: book]( https://rustwasm.github.io/docs/book/introduction.html )   <br/> 
+   [rust-Web­Assembly: book：中文]( https://rustwasm.wasmdev.cn/docs/book/ )   <br/> 
+   [wasm-pack: 将 Rust 打包成 wasm 的命令行工具](https://rustwasm.github.io/wasm-pack/installer/)  <br/>
+   [cargo-generate: 样板代码生成](https://github.com/cargo-generate/cargo-generate)  <br/>
+   [create-wasm-app: npm相应包](https://github.com/rustwasm/create-wasm-app)  <br/>
+   [rust-wasm: rust-wasm的模板](https://github.com/rustwasm/wasm-pack-template)   <br/>  <br/>
+    
    [ Rust Web 全栈开发教程 ]( https://www.bilibili.com/video/BV1RP4y1G7KF/?spm_id_from=333.999.0.0&vd_source=bc5bee468c2cbda6193e66c4288c8c7b )     <br/>
    [ awesome-leptos ]( https://github.com/leptos-rs/awesome-leptos )     <br/>
 

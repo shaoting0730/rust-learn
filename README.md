@@ -5,6 +5,7 @@
    [ rust-course ⭐️⭐️⭐️⭐️ ]( https://github.com/sunface/rust-course )    <br/>
    [ Rust语言圣经 ⭐️⭐️⭐️⭐️ ]( https://course.rs/too-many-lists/intro.html )    <br/>
    [ B站up主：软件工艺师 ]( https://space.bilibili.com/361469957 )    <br/>
+   [ rust_basic_edu:B站up主 面向加薪学习 ]( https://github.com/i-coder-robot/rust_basic_edu )    <br/>
    [ 锈书 ]( https://github.com/rustlang-cn/rusty-book )    <br/>
    [ Rust语言周刊 ]( https://github.com/rustlang-cn/rust-weekly )    <br/>
    [ RusttT 翻译小组的官方仓库，这里有国外优秀的技术文章、学习教程、新闻资讯的高质量翻译 ]( https://github.com/rustlang-cn/Rustt )    <br/>

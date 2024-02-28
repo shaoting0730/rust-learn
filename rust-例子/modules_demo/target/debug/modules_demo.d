@@ -1,0 +1,1 @@
+/Users/zhoushaoting/Desktop/GitHub/rust-learn/rust-例子/modules_demo/target/debug/modules_demo: /Users/zhoushaoting/Desktop/GitHub/rust-learn/rust-例子/modules_demo/mylib/src/lib.rs /Users/zhoushaoting/Desktop/GitHub/rust-learn/rust-例子/modules_demo/src/main.rs

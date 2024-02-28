@@ -67,6 +67,7 @@
    [序列化与反序列化：serde](https://crates.io/crates/serde)   <br/> 
    [网络编程：reqwest，是一个高层的HTTP客户端库，支持异步请求](https://crates.io/crates/reqwest)   <br/> 
    [异步编程：tokio](https://crates.io/crates/tokio)   <br/> 
+   [async库](   https://github.com/async-rs/async-std)   <br/> 
    [命令行工具开发：clap](https://crates.io/crates/clap)   <br/> 
 
 

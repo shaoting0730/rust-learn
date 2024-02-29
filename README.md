@@ -63,6 +63,13 @@
    [ Rust Web 全栈开发教程 ]( https://www.bilibili.com/video/BV1RP4y1G7KF/?spm_id_from=333.999.0.0&vd_source=bc5bee468c2cbda6193e66c4288c8c7b )     <br/>
    [ awesome-leptos ]( https://github.com/leptos-rs/awesome-leptos )     <br/>
 
+   ## <---------------用过的库------------><br/>
+   [序列化与反序列化：serde](https://crates.io/crates/serde)   <br/> 
+   [网络编程：reqwest，是一个高层的HTTP客户端库，支持异步请求](https://crates.io/crates/reqwest)   <br/> 
+   [异步编程：tokio](https://crates.io/crates/tokio)   <br/> 
+   [async库](   https://github.com/async-rs/async-std)   <br/> 
+   [命令行工具开发：clap](https://crates.io/crates/clap)   <br/> 
+
 
     
 

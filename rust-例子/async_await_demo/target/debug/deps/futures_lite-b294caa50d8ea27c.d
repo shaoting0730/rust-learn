@@ -1,0 +1,9 @@
+/Users/zhoushaoting/Desktop/GitHub/rust-learn/rust-例子/async_await_demo/target/debug/deps/libfutures_lite-b294caa50d8ea27c.rmeta: /Users/zhoushaoting/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/lib.rs /Users/zhoushaoting/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/future.rs /Users/zhoushaoting/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/prelude.rs /Users/zhoushaoting/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/stream.rs /Users/zhoushaoting/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/io.rs
+
+/Users/zhoushaoting/Desktop/GitHub/rust-learn/rust-例子/async_await_demo/target/debug/deps/futures_lite-b294caa50d8ea27c.d: /Users/zhoushaoting/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/lib.rs /Users/zhoushaoting/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/future.rs /Users/zhoushaoting/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/prelude.rs /Users/zhoushaoting/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/stream.rs /Users/zhoushaoting/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/io.rs
+
+/Users/zhoushaoting/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/lib.rs:
+/Users/zhoushaoting/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/future.rs:
+/Users/zhoushaoting/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/prelude.rs:
+/Users/zhoushaoting/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/stream.rs:
+/Users/zhoushaoting/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/io.rs:

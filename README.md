@@ -28,6 +28,9 @@
    [ 小争哥讲算法（包括 Rust ]( https://github.com/wangzheng0822/algo  )    <br/>
    [ Rust 算法技术博客集合 ]( https://learnku.com/blog/godme/archive/2022-7 )    <br/>
    [ LeetCode in Rust ]( https://github.com/aylei/leetcode-rust)    <br/>
+   [ Redox：Rust编写的操作系统 ]( https://github.com/redox-os/redox )    <br/>
+   [ Fyrox：用Rust编写的3D和2D游戏引擎 ]( https://github.com/FyroxEngine/Fyrox )    <br/>
+   [ Diesel：安全的，可扩展的ORM和Rust查询生成器 ]( https://github.com/diesel-rs/diesel )    <br/>
    
    ## <---------------跨平台UI开发框架------------><br/>
    [ 跨平台 UI 开发框架-Dioxus 网页前端、桌面应用、静态网站、移动端应用、TUI程序、等多类平台应用 ]( https://github.com/DioxusLabs/dioxus/blob/main/translations/zh-cn/README.md )    <br/>
@@ -59,6 +62,7 @@
    [cargo-generate: 样板代码生成](https://github.com/cargo-generate/cargo-generate)  <br/>
    [create-wasm-app: npm相应包](https://github.com/rustwasm/create-wasm-app)  <br/>
    [rust-wasm: rust-wasm的模板](https://github.com/rustwasm/wasm-pack-template)   <br/>  <br/>
+
     
    [ Rust Web 全栈开发教程 ]( https://www.bilibili.com/video/BV1RP4y1G7KF/?spm_id_from=333.999.0.0&vd_source=bc5bee468c2cbda6193e66c4288c8c7b )     <br/>
    [ awesome-leptos ]( https://github.com/leptos-rs/awesome-leptos )     <br/>

@@ -59,6 +59,11 @@
    [rust-Web­Assembly](https://www.rust-lang.org/zh-CN/what/wasm)   <br/> 
    [rust-Web­Assembly: book]( https://rustwasm.github.io/docs/book/introduction.html )   <br/> 
    [rust-Web­Assembly: book：中文]( https://rustwasm.wasmdev.cn/docs/book/ )   <br/> 
+   [ WebAssembly ](   https://developer.mozilla.org/zh-CN/docs/WebAssembly )    <br/>
+   [ WebAssembly介绍 ](   https://zhuanlan.zhihu.com/p/653338467?utm_id=0 )    <br/>
+   [ WebAssembly-rust-B站原子之音 ](   https://www.bilibili.com/video/BV19a41127Dq/?spm_id_from=333.337.search-card.all.click&vd_source=bc5bee468c2cbda6193e66c4288c8c7b )    <br/>
+   [ WebAssembly-rust-B站软件工艺师杨旭 ](   https://www.bilibili.com/video/BV1RP4y1G7KF/?spm_id_from=333.337.search-card.all.click&vd_source=bc5bee468c2cbda6193e66c4288c8c7b )    <br/>
+   [ wat2wasm  ](   https://webassembly.github.io/wabt/demo/wat2wasm/ )    <br/>
    [wasm-pack: 将 Rust 打包成 wasm 的命令行工具](https://rustwasm.github.io/wasm-pack/installer/)  <br/>
    [cargo-generate: 样板代码生成](https://github.com/cargo-generate/cargo-generate)  <br/>
    [create-wasm-app: npm相应包](https://github.com/rustwasm/create-wasm-app)  <br/>

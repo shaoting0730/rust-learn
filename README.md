@@ -41,6 +41,7 @@
 
    ## <---------------web相关------------><br/>
    [ tauri ]( https://github.com/tauri-apps/tauri )     <br/>
+   [ yew ](   https://github.com/yewstack/yew )     <br/>
    [ swc ](   https://github.com/swc-project/swc )     <br/>
    [ deno ](  https://github.com/denoland/deno )     <br/>
    [ egui ]( https://github.com/emilk/egui )     <br/>

@@ -54,6 +54,7 @@
    [ Warp ]( https://github.com/seanmonstar/warp )     <br/>
    [ Tide ]( https://github.com/http-rs/tide )     <br/>
    [ Poem ]( https://github.com/poem-web/poem )     <br/>
+   [ Salvo ]( https://github.com/salvo-rs/salvo )     <br/>
 
 
    <br/>

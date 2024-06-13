@@ -77,6 +77,18 @@
    [ Rust Web 全栈开发教程 ]( https://www.bilibili.com/video/BV1RP4y1G7KF/?spm_id_from=333.999.0.0&vd_source=bc5bee468c2cbda6193e66c4288c8c7b )     <br/>
    [ awesome-leptos ]( https://github.com/leptos-rs/awesome-leptos )     <br/>
 
+
+  <br/>
+
+   ## <---------------AI------------><br/>
+   [ Linfa 是Rust生态中的一个机器学习库，提供了多种算法的实现  ]( https://crates.io/crates/linfa )     <br/>
+   [ Tract是一个轻量级、快速、可嵌入的机器学习运行库，可以用于加载、优化和运行神经网络模型 ]( https://github.com/sonos/tract )     <br/>
+   [ rust-bert 是一个基于Rust的NLP库，支持BERT模型及其变种的加载和推理 ]( https://crates.io/crates/rust-bert )     <br/>
+   [ ndarray 多维数组的支持，类似于Numpy ]( https://crates.io/crates/ndarray )     <br/>
+   [ tract：用于ONNX和Tensorflow模型的推理引擎 ]( https://github.com/sonos/tract )     <br/>
+   [ smartcore：纯Rust编写的机器学习库，包括常见的机器学习算法 ]( https://crates.io/crates/smartcore )     <br/>
+
+
    ## <---------------用过的库------------><br/>
    [序列化与反序列化：serde](https://crates.io/crates/serde)   <br/> 
    [网络编程：reqwest，是一个高层的HTTP客户端库，支持异步请求](https://crates.io/crates/reqwest)   <br/> 

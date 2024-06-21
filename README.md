@@ -11,6 +11,7 @@
    [ rust_basic_edu:B站up主 面向加薪学习 ]( https://github.com/i-coder-robot/rust_basic_edu )    <br/>
    [ 锈书 ]( https://github.com/rustlang-cn/rusty-book )    <br/>
    [ Rust语言周刊 ]( https://github.com/rustlang-cn/rust-weekly )    <br/>
+   [ Rust语言开源杂志（2021） ]( https://rustmagazine.github.io/rust_magazine_2021/index.html )    <br/>
    [ RusttT 翻译小组的官方仓库，这里有国外优秀的技术文章、学习教程、新闻资讯的高质量翻译 ]( https://github.com/rustlang-cn/Rustt )    <br/>
    [《Rust 程序设计语言》非官方翻译 ]( https://kaisery.github.io/trpl-zh-cn/title-page.html )    <br/>
    [《通过例子学 Rust 中文版》非官方翻译  ]( https://rustwiki.org/zh-CN/rust-by-example/ )    <br/>

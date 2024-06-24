@@ -96,6 +96,7 @@
    [异步编程：tokio](https://crates.io/crates/tokio)   <br/> 
    [async库](   https://github.com/async-rs/async-std)   <br/> 
    [命令行工具开发：clap](https://crates.io/crates/clap)   <br/> 
+   [flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge)   <br/> 
 
 
     

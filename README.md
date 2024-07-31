@@ -38,7 +38,8 @@
    
    ## <---------------跨平台UI开发框架------------><br/>
    [ 跨平台 UI 开发框架-Dioxus 网页前端、桌面应用、静态网站、移动端应用、TUI程序、等多类平台应用 ]( https://github.com/DioxusLabs/dioxus/blob/main/translations/zh-cn/README.md )    <br/>
- 
+   [ Rust 跨平台-Android 和鸿蒙 OS ]( https://mp.weixin.qq.com/s/BOtAS5TjeGSTW5eZbVhbnw )   <br/>
+
 
    ## <---------------web相关------------><br/>
    [ tauri ]( https://github.com/tauri-apps/tauri )     <br/>

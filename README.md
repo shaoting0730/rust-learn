@@ -8,6 +8,7 @@
    [ 微软Rust教程 ⭐️⭐️⭐️⭐️ ]( https://learn.microsoft.com/zh-cn/training/paths/rust-first-steps/ )    <br/>
    [ B站up主：软件工艺师杨旭 ⭐️⭐️⭐️⭐️⭐️ ]( https://space.bilibili.com/361469957 )    <br/>
    [ 张汉东-rust语言实战课 ⭐️⭐️⭐️⭐️⭐ ]( https://www.youtube.com/watch?v=vDWggNSIwzA&list=PLbhBvxP8oc-bA8YB3rPwnIAVGZpP57jBv&index=2 )    <br/>
+   [ Flutter&Rust 应用开发 ⭐️⭐️⭐️⭐️⭐ ]( https://juejin.cn/column/7411457479572078643 )    <br/>
    [ rust_basic_edu:B站up主 面向加薪学习 ]( https://github.com/i-coder-robot/rust_basic_edu )    <br/>
    [ 锈书 ]( https://github.com/rustlang-cn/rusty-book )    <br/>
    [ Rust语言周刊 ]( https://github.com/rustlang-cn/rust-weekly )    <br/>
